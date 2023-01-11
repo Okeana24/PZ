@@ -17,3 +17,4 @@
 [“Russia”, “Denmark”, “Kazan”] → []
 
 > ![схема](схема.drawio.png)
+3. Вы читаете данный фаил `README.md`
