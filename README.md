@@ -20,3 +20,12 @@
 3. Вы читаете данный фаил `README.md`
 
 4. Программа находится в ветке [`main`]
+Код программы:
+```cs
+Commands();
+string[] array = new string[] {};
+
+string fromUser = ReadInput("Введите команду: ");
+switch (fromUser)
+{
+    case "1":
